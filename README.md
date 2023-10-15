@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PstErti
 - 👀 I’m interested in C/C++ coding.
-- 🌱 I’m currently learning Python, Typescript and Javascript.
+- 🌱 I’m currently learning Python.
 - 📫 Contact me: 340470024@qq.com
 
 <!---
