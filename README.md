@@ -41,7 +41,7 @@ PstErti* PstErti::instance = nullptr;
 std::map<std::string, std::string> PstErti::contactInfo = 
 {
     {"Tel", "+86 18972666975"},
-    {"WeChat", "PstErti"},
+    {"WeChat", "PstErti"}
 };
 
 ```
