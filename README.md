@@ -42,7 +42,6 @@ std::map<std::string, std::string> PstErti::contactInfo =
 {
     {"Tel", "+86 18972666975"},
     {"WeChat", "PstErti"},
-    {"FeiShu", "https://ccnon4lj29e1.feishu.cn/docx/B9IcdXXOooEyGsxVQYhcneV3n0b"}
 };
 
 ```
